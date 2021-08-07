@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExceptionTracingLib</string>
+    <string name="uncaught_exception">Uncaught Exception</string>
+    <string name="caught_exception">Caught Exception</string>
+</resources>
